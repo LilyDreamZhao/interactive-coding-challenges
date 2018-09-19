@@ -33,6 +33,7 @@ interactive-coding-challenges
 **注释两个星星\*\*也能黑色加粗**  
 
 ### 注释：下面的蓝色超链接是页内跳转，让我们也实现一个吧
+### 将标题各分词小写，去掉空格和符号，每个单词以-连接
 [页内跳转](#design-resource-the-system-design-primer)
 
 
@@ -78,6 +79,8 @@ Also included are **unit tested reference implementations** of various [data str
 The provided [Anki flashcard deck](https://apps.ankiweb.net/) uses spaced repetition to help you retain key concepts.
 
 * [Coding deck](anki_cards/Coding.apkg)
+* (anki_cards/Coding.apkg)
+* [Coding deck]
 
 Great for use while on-the-go.
 
