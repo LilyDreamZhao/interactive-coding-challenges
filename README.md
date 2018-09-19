@@ -1,11 +1,36 @@
+ # 个人笔记，十分杂乱，仅限制个人理解。零基础入门。
+注释：行末两个空格换行  
+<br/> 注释：&lt;br/&gt;是换行符号
 <br/>
+<br/> 注释：&lt;p&gt; &lt;/p&gt;包含一个段落
+<br/>
+<br/>
+<p align="center">
+    注释:这是一个居中的段落
+</p>
+<p align="left">
+    注释:这是一个左边对齐的段落
+</p>
+<p align="right">
+    注释:这是一个右边对齐的段落
+</p>
+
+<p align="center">
+注释:这是一个居中的图片
+</p>
+<p align="center">
+  <img src="https://i.loli.net/2018/09/19/5ba1b2a4b2dfd.jpg">
+</p>
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/interactive-coding-challenges/master/images/cover_challenge.gif">
 </p>
 
-interactive-coding-challenges
+注释：黑色字体从哪来的？ 原来下面加了=====  
+interactive-coding-challenges 
 ============
-
+**两个星星\*\*也能黑色加粗**  
 **120+ continually updated, interactive, and test-driven coding challenges**, with [Anki flashcards](#anki-flashcards-coding-and-design).
 
 Challenges focus on **algorithms** and **data structures** found in **coding interviews**.
