@@ -32,7 +32,8 @@ interactive-coding-challenges
 ============
 **注释两个星星\*\*也能黑色加粗**  
 
-### 注释：下面的蓝色超链接是页内跳转，让我们也实现一个吧,暂时不会
+### 注释：下面的蓝色超链接是页内跳转，让我们也实现一个吧
+[页内跳转](#design-resource-the-system-design-primer)
 
 
 
