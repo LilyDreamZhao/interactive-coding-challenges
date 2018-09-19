@@ -30,17 +30,24 @@
 注释：黑色字体从哪来的？ 原来下面加了=====  
 interactive-coding-challenges 
 ============
-**两个星星\*\*也能黑色加粗**  
+**注释两个星星\*\*也能黑色加粗**  
+
+### 注释：下面的蓝色超链接是页内跳转，让我们也实现一个吧,暂时不会
+
+
+
 **120+ continually updated, interactive, and test-driven coding challenges**, with [Anki flashcards](#anki-flashcards-coding-and-design).
 
 Challenges focus on **algorithms** and **data structures** found in **coding interviews**.
 
 Each challenge has one or more reference solutions that are:
 
+### 注释 "\* "能实现黑色中心点作为项目符号
 * Fully functional
 * Unit tested
 * Easy-to-understand
 
+### 注释：[任意文字](url链接）作为超链接
 Challenges will soon provide on-demand [incremental hints](https://github.com/donnemartin/interactive-coding-challenges/issues/22) to help you arrive at the optimal solution.
 
 Notebooks also detail:
