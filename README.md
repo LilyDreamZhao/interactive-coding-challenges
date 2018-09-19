@@ -77,10 +77,9 @@ Also included are **unit tested reference implementations** of various [data str
 </p>
 
 The provided [Anki flashcard deck](https://apps.ankiweb.net/) uses spaced repetition to help you retain key concepts.
-
+### [任意文字]\(master目录下面的文件路径，例如anki_cards/Coding.apkg）即跳转到当前目录/anki_cards/Coding.apkg的url页面\)  
 * [Coding deck](anki_cards/Coding.apkg)
-* (anki_cards/Coding.apkg)
-* [Coding deck]
+
 
 Great for use while on-the-go.
 
@@ -99,6 +98,8 @@ Check out the sister repo [The System Design Primer](https://github.com/donnemar
 * [System design exercises deck](https://github.com/donnemartin/system-design-primer/blob/master/resources/flash_cards/System%20Design%20Exercises.apkg)
 * [Object oriented design exercises deck](https://github.com/donnemartin/system-design-primer/blob/master/resources/flash_cards/OO%20Design.apkg)
 
+## 注释：![] 是干嘛的？ 也是一种显示图片的方法
+![显示python图片，此文字不会显示](https://i.loli.net/2018/09/19/5ba1b2a4b2dfd.jpg)
 ![](https://camo.githubusercontent.com/e45e39c36eebcc4c66e1aecd4e4145112d8e88e3/687474703a2f2f692e696d6775722e636f6d2f6a6a3341354e382e706e67)
 
 ## Notebook Structure
@@ -118,6 +119,7 @@ Each challenge has two notebooks, a **challenge notebook** with unit tests for y
 * Describes the general and edge test cases that will be evaluated in the unit test.
 
 ### Algorithm
+### \*[任意文字] 其他文字  没有特别效果全部都是文本，中括号也是文本
 
 * [Challenge Notebook] Empty, refer to the solution notebook algorithm section if you need a hint.
 * [Solution Notebook] One or more algorithm solution discussions, with Big-O time and space complexities.
@@ -229,8 +231,13 @@ Unit tested, fully functional implementations of the following algorithms:
 </p>
 <br/>
 
-### Arrays and Strings
+### Arrays and Strings  
+### 注释：下面是markdown表格操作了，我们先试试  
+| 第行第一列特别显示了 | 第行第二列 特别显示了 |  
+|-----------------------------|----------------------------------------|
+| 第二行第一列 |第二行第二列 |
 
+  
 | Challenge | Static Notebook |
 |--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
 | Determine if a string contains unique characters | [Challenge](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/unique_chars/unique_chars_challenge.ipynb)│[Solution](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/unique_chars/unique_chars_solution.ipynb) |
@@ -455,6 +462,11 @@ Unit tested, fully functional implementations of the following algorithms:
 | Add a challenge | [Contribute](https://github.com/donnemartin/interactive-coding-challenges/blob/master/CONTRIBUTING.md)│[Contribute](https://github.com/donnemartin/interactive-coding-challenges/blob/master/CONTRIBUTING.md) |
 
 ## Repo Structure
+
+### 注释 \``` \```是干嘛的，测试一下
+```
+点包围里面的内容，我长啥样子？奥，原来有阴影背景
+```
 
 ```
 interactive-coding-challenges        # Repo
